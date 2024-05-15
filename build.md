@@ -1,6 +1,6 @@
 Photomath: 8.32.0  
-YouTube: 19.11.43  
 Infinity: 7.1.1  
+YouTube: 19.11.43  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
