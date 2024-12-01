@@ -1,5 +1,4 @@
 Infinity: 7.4.1  
-Music: 7.29.51  
 Photomath: 8.37.0  
 Reddit: 2024.17.0  
 YouTube: 19.46.42  
