@@ -1,7 +1,5 @@
-Infinity: 7.4.1  
 Music: 7.29.52  
 Photomath: 8.45.0  
-Reddit: 2024.17.0  
 YouTube: 20.13.41  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
